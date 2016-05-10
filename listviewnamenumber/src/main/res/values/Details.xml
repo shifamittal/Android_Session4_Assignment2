@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Name">
+        <item>Name1</item>
+        <item>Name2</item>
+        <item>Name3</item>
+        <item>Name4</item>
+        <item>Name5</item>
+        <item>Name6</item>
+        <item>Name7</item>
+
+    </string-array>
+
+<integer-array name="Number">
+    <item>34546</item>
+    <item>44546</item>
+    <item>54546</item>
+    <item>64546</item>
+    <item>74546</item>
+    <item>84546</item>
+    <item>94546</item>
+
+
+</integer-array>>
+</resources>
